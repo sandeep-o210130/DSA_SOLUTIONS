@@ -1,2 +1,4 @@
-# DSA_SOLUTIONS
-Hello folks this repo will help you to ease your understanding the code for many problems
+# 🚀 LeetCode DSA Solutions
+
+This repository contains my **LeetCode problem solutions** in **C++** and **Java**.  
+I’m solving these to improve my **Data Structures & Algorithms (DSA)** skills and prepare for **Competitive Programming** and **interviews**.
