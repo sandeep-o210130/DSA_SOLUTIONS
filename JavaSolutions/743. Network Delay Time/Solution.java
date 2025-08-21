@@ -1,3 +1,4 @@
+//This problem is nothing but Dijkstra in disguise.
 class Solution {
     public int networkDelayTime(int[][] times, int n, int k) {
         // Build adjacency list
